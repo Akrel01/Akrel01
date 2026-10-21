@@ -1,21 +1,81 @@
-                                                  HOLA, SOY ALEXANDER!👋
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexander_01t) 
+<div align="center">
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Akrel&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Akrel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akrel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=3000&pause=1000&color=58D6C8&center=true&vCenter=true&width=420&lines=~%2Fakrel01+%24+whoami" alt="~/akrel01 $ whoami" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Akrel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# Hola, soy Alexander.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+**Desarrollador front-end que convierte ideas en interfaces limpias, accesibles y rápidas.**
+
+![Lima, Perú](https://img.shields.io/badge/Lima%2C_Per%C3%BA-161b22?style=for-the-badge&logo=googlemaps&logoColor=58d6c8)
+![Aktra Software Development](https://img.shields.io/badge/Aktra_Software_Development-161b22?style=for-the-badge&logoColor=58d6c8)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Akrel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Sobre mí
+
+```js
+const akrel = {
+  nombre:    "Alexander Tejeda",
+  rol:       "Front-end developer",
+  empresa:   "Aktra Software Development",
+  ubicacion: "Lima, PE",
+  stack:     ["Next.js", "React", "Supabase", "SQL", "SEO"],
+};
+```
+
+---
+
+## Stack
+
+**Front-end**
+
+![HTML5](https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=58d6c8)
+![CSS3](https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=58d6c8)
+![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=58d6c8)
+![React](https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=58d6c8)
+![Next.js](https://img.shields.io/badge/Next.js-161b22?style=for-the-badge&logo=nextdotjs&logoColor=58d6c8)
+
+**Estilos**
+
+![Sass](https://img.shields.io/badge/Sass-161b22?style=for-the-badge&logo=sass&logoColor=58d6c8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-161b22?style=for-the-badge&logo=bootstrap&logoColor=58d6c8)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161b22?style=for-the-badge&logo=tailwindcss&logoColor=58d6c8)
+
+**Backend y datos**
+
+![Supabase](https://img.shields.io/badge/Supabase-161b22?style=for-the-badge&logo=supabase&logoColor=58d6c8)
+![SQL](https://img.shields.io/badge/SQL-161b22?style=for-the-badge&logoColor=58d6c8)
+![Java](https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=openjdk&logoColor=58d6c8)
+
+**SEO y rendimiento**
+
+![Optimización SEO](https://img.shields.io/badge/Optimizaci%C3%B3n_SEO-161b22?style=for-the-badge&logo=googlesearchconsole&logoColor=58d6c8)
+
+**Herramientas e IA**
+
+![npm](https://img.shields.io/badge/npm-161b22?style=for-the-badge&logo=npm&logoColor=58d6c8)
+![Git](https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=58d6c8)
+![Codex](https://img.shields.io/badge/Codex-161b22?style=for-the-badge&logo=openai&logoColor=58d6c8)
+
+---
+
+## Actividad
+
+<div align="center">
+
+<img height="170" alt="Estadísticas de GitHub de Akrel01" src="https://github-readme-stats.vercel.app/api?username=Akrel01&show_icons=true&hide_title=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58d6c8&border_color=30363d" />
+<img height="170" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akrel01&layout=compact&hide_title=true&bg_color=0d1117&text_color=c9d1d9&border_color=30363d" />
+
+</div>
+
+---
+
+## ¿Hablamos?
+
+Cuéntame tu idea o proyecto.
+
+[![Instagram](https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=58d6c8)](https://instagram.com/TU_USUARIO)
+[![Correo](https://img.shields.io/badge/Correo-161b22?style=for-the-badge&logo=gmail&logoColor=58d6c8)](mailto:TU_CORREO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=58d6c8)](https://linkedin.com/in/TU_USUARIO)
